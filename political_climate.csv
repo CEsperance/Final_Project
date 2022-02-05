@@ -1,0 +1,16 @@
+Congress,Year Start,Year End,House Majority,Senate Majority,Presidency,President,Party Government
+102,1991,1993,Democrats,Democrats,Republican,G.H.W Bush,Divided 
+103,1993,1995,Democrats,Democrats,Democrat,Clinton,Unified 
+104,1995,1997,Republicans,Republicans,Democrat,Clinton,Divided 
+105,1997,1999,Republicans,Republicans,Democrat,Clinton,Divided 
+106,1999,2001,Republicans,Republicans,Democrat,Clinton,Divided 
+107,2001,2003,Republicans,Republicans / Democrats12,Republican,G.W. Bush,Unified / Divided 
+108,2003,2005,Republicans,Republicans,Republican,G.W. Bush,Unified 
+109,2005,2007,Republicans,Republicans,Republican,G.W. Bush,Unified 
+110,2007,2009,Democrats,Democrats13,Republican,G.W. Bush,Divided 
+111,2009,2011,Democrats,Democrats,Democrat,Obama,Unified 
+112,2011,2013,Republicans,Democrats,Democrat,Obama,Divided 
+113,2013,2015,Republicans,Democrats,Democrat,Obama,Divided 
+114,2015,2017,Republicans,Republicans,Democrat,Obama,Divided 
+115,2017,2019,Republicans,Republicans,Republican,Trump,Unified 
+116,2019,2021,Democrats,Republicans,Republican,Trump,Divided
