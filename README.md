@@ -52,7 +52,7 @@ In order to predict based on time, we used the pandas shift() and diff() functio
 To run the models, functions were created for validation splits, for processing the dataframes into tensors for Pytorch and for running the models/plotting results. Mean Absolute Error was used as the performance metric for all Supervised Learning regression models.
 
 ###### Parameter Tuning
-A manual gridsearch through available optimizers was created to find the best optimizer for the Neural Network. Gridsearch was used to tune the number of estimators for the Random Forest Model and the learning rate for the Neural Network. Lasso regression was also used to find the feature engineered columns that contained the most variation in the dataset in order to streamline the model's performance and reduce noise.
+A manual gridsearch through available optimizers was created to find the best optimizer for the Neural Network. Gridsearch was used to tune max_depth, min_samples_leaf, and n_estimators for the Random Forest Model and the learning rate for the Neural Network. Lasso regression was also used to find the feature engineered columns that contained the most variation in the dataset in order to streamline the model's performance and reduce noise.
 
 ###### Validation
 A train test split function was created to split the time series, withholding the last 15% of the dataset for validation and comparison.
