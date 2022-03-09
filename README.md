@@ -20,6 +20,7 @@ One of the aggregated dataframes was further processed for timeseries analysis, 
 ### ETL Process
 The combined hate crime and political data was extracted from the csv, transformed through preprocessing, feature engineering, and splitting on columns, and loaded into Postgres using Psycopg2 and SQLalchemy modules. 
 ###### LucidChart Database Model
+<img src="./Data_Model.png" />
 
 ###### Extracting
 Data was extracted and cleaned using pandas and numpy modules in the Data_Preprocessing.py file. We discovered that Postgres did not like the format of our column titles and so some additional cleaning was required to rename columns. 
